@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Hemmes Energietechniek</title>
+
+  <link rel="stylesheet" href="{{ config.base_url }}/css/water.min.css">
+  <link rel="stylesheet" href="{{ config.base_url }}/css/style.css">
+</head>
+
+<body>
+  <nav>
+    <a href="{{ config.base_url }}">
+      <picture>
+        <img src="{{ config.base_url }}/img/logo.jpg"></img>
+      </picture>
+    </a>
+	<ul>
+      <li><a href="{{ get_url(path='@/news/_index.md') }}">News</a></li>
+      <li><a href="{{ get_url(path='@/license.md') }}">License</a></li>
+      <li><a href="{{ get_url(path='@/about.md') }}">About</a></li>
+    </ul>
+  </nav>
+  <section>
+     {% block content %} {% endblock content %}
+  </section>
+</body>
+
+</html>

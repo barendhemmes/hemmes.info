@@ -1,0 +1,41 @@
+:root {
+	--background-body
+	--background
+	--background-alt
+	--selection
+	--text-main
+	--text-bright
+	--text-muted
+	--links
+	--focus
+	--border
+	--code
+	--animation-duration
+	--button-hover
+	--scrollbar-thumb
+	--scrollbar-thumb-hover
+	--form-placeholder
+	--form-text
+	--variable
+	--highlight
+	--select-arrow
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav img {
+  height: 40px;
+  width: auto;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 1.5rem;
+}

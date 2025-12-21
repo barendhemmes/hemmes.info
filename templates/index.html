@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section>
+  <h3>News</h3>
+  <ul>
+  {% set news = get_section(path="news/_index.md") %}
+  {% for page in news.pages | slice(end=3) %}
+    <li>
+      <span>{{ page.date | date(format="%Y-%m-%d") }}</span>
+      <a href="{{ page.permalink }}">{{ page.title }}</a>
+      <p>{{ page.description }}</p>
+    </li>
+  {% endfor %}
+  </ul>
+
+  <p><a href="{{ get_url(path='@/news/_index.md') }}">More...</a></p>
+</section>
+
+<section>
+  <h3>Links</h3>
+
+</section>
+
+{% endblock content %}

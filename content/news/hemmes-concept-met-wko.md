@@ -1,0 +1,111 @@
++++
+title = "Hemmes concept met warmte koude opslag"
+date = 1998-12-01
++++
+
+Hemmes-unit geschikt voor grondwater?
+
+Een gebruik van grondwater voor koel- en verwarmingsdoeleinden heeft een nog
+lager primair energiegebruik dan een toegepaste warmtepomp met hoge COP.
+
+## Samenvatting
+
+Monobron moet tot de mogelijkheden behoren door de kleine delta T en het kleine
+totale vermogen.
+
+Het temperatuurnivo van gemiddeld 10 wordt gebracht op een koude bel van 0 en
+een warme bel van circa 10-20 graden
+
+Deze temperatuurnivo’s zijn minder milieubedreigend dan opslag van warmere
+temperaturen zoals circa 50 of nog hoger.
+
+Door het voorverwarmen van de buitenlucht met grondwater kan de lucht een stukje
+bevochtigd worden voordat de de WTW-deel ingaat.
+
+Ruimten met hoge interne warmtelast kunnen in de winter ook met de
+luchtbevochtiger werken en aldus het klimaat voor de andere ruimten verbeteren
+(dampdiffusie).
+
+Ten opzichte van de vigerend toegepaste brontemperaturen is nu 0 graden een zeer
+interessante temperatuur geworden.
+
+## Mogelijkheden
+
+### Winter
+
+Voor de warmteterugwinning is voorverwarmen van de buitenlucht nauwelijks van
+belang: 92% van 30 graden of 92% van 20 graden maakt wel iets uit maar het
+grootste voordeel moet erin worden gezocht dat door het ontbreken van
+vochtterugwinning in het WTW-deel er een stukje enthalpie verloren gaat Via de
+bodemopslag kan deze weer worden gewonnen door de lucht tot bij voorkeurboven 0
+graden voor te verwarmen zodat het weer mogelijk wordt de lucht iets te
+bevochtigen alvorens deze het WTW-deel binnengaat. (bevochtigen na de WTW-deel
+heeft een koelend effect hetgeen kan worden toegepast voor de ruimten met een
+hoge interne warmtelast, deze ruimten draaien nu vaak op de koelmachine in
+winterregeling terwijl vrije koeling mogelijk is op dat moment. In de
+Hemmes-optie hebben deze ruimten een luchtbevochtiger die dus ook in de
+wintersituatie de droge lucht kan bevochtigen en aldus adiabatische koeling ter
+plekke kan geven.)
+
+Warm grondwater van hoger dan 10 graden kan allereerst de koude kant van de
+warmtepomp voorzien van warmte zodat deze een hoge COP behaalt bij het verwarmen
+van het lage temperatuursverwarmingssysteem.
+
+Daarna wordt dit afgekoelde water geleid door een batterij welke in de koude
+buitenluchtaanzuig zit. Het grondwater wordt op een temperatuur van juist boven
+0 graden gehouden en teruggebracht in de diepe sectie van de monobron.
+
+### Voor- en naseizoen
+
+Er wordt voornamelijk vrije koeling en warmteterugwinning toegepast en de bron
+behoeft niet te worden aangesproken.
+
+### Zomer
+
+Het koude water onder uit de bron wordt opgepompt en met dit water wordt de
+koelbatterij van de ontvochtiger gevoed.
+
+Indien het water niet koel genoeg zou zijn kan een freonbatterij erachter worden
+geplaatst . Het water is na het verlaten van het ontvochtigingsdeel van de
+Hemmes-unit enigszins opgewarmd en kan dan verder worden opgewarmd door dit
+water weer te leiden door de batterij in de toevoerlucht.
+
+Om hier zo warm mogelijk water te hebben kan eventueel ook nog de retourlucht
+worden gekoeld hetgeen een groot effect heeft omdat deze juist door de
+adiabatische bevochtiging een hoog vochtgehalte heeft en dus zeker zal
+condenseren op de batterij.
+
+Het water kan hierna geleid worden door een warmtewisselaar zodat de
+“koelmachine” z’n warmte op een ideaal temperatuurnivo kwijt kan (circa 15-20
+graden). Opmerking: onderzoeken of het zinnig is om warmer op te slaan door
+water eerst door luchtbatterijen en dan door condensor of dat je juist meer
+water op een lager nivo moet gebruiken.
+
+De temperatuur waarmee je het water wil opslaan zal afhangen van de verdeling
+tussen benodigde voorverwarming van lucht en benodigde koellenergie.
+
+Omdat de voorverwarmingsenergie alleen gebruikt wordt om het invriezen van het
+WTW-deel te voorkomen zal deze energie hoeveelheid geringer zijn dan de
+benodigde aantal uren koeling.
+
+Een onderzoek naar deze opslagtemperaturen dient uitgevoerd te worden.
+
+Toch kan al gezegd worden dat gestreefd moet worden naar een zou koud mogelijke
+koele kant van de monobron. Want hoe kouder dit water des te beter werkt de
+ontvochtiging in de Hemmes-unit en des te minder hoeft er eventueel te worden
+nagekoeld
+
+Indien je eventueel warmte nodig hebt in de zomer kan dit eenvoudig via de
+warmte die je hebt onttrokken in de extra freonbatterij in de
+ontvochtigingsunit, maar verder komen als bronnen in aanmerking de algemene
+retourlucht ( welke warm is maar droog) , de buitenlucht verder koelen na de
+grondwaterbatterij zal niet meer nodig zijn, maar een optie is wellicht het
+koelen van de afblaaslucht welke na de adiabatische bevochtiging weer geheel is
+opgewarmd in het WTW-deel., zodat weer met een hoge warmte-overdracht door
+condenserende waterdamp warmte onttrokken kan worden, hetgee n de COP van de
+warmtepomp ten goede komt.
+
+> Opmerking: In de zomer heeft het plaatsen van een extra freonbatterij na de
+> waterbatterij de voorkeur boven het dieper koelen van het water omdat in de
+> zomer het water naar de bron moet op een zo hoog mogelijke temperatuur en dus
+> niet zelf moet worden gekoeld.
