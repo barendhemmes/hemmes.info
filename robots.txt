@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://barendhemmes.github.io/hemmes.info/sitemap.xml
