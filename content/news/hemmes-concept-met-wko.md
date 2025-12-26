@@ -105,7 +105,7 @@ opgewarmd in het WTW-deel., zodat weer met een hoge warmte-overdracht door
 condenserende waterdamp warmte onttrokken kan worden, hetgee n de COP van de
 warmtepomp ten goede komt.
 
-> Opmerking: In de zomer heeft het plaatsen van een extra freonbatterij na de
+> In de zomer heeft het plaatsen van een extra freonbatterij na de
 > waterbatterij de voorkeur boven het dieper koelen van het water omdat in de
 > zomer het water naar de bron moet op een zo hoog mogelijke temperatuur en dus
 > niet zelf moet worden gekoeld.
